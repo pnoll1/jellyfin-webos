@@ -5,15 +5,15 @@ This is a small wrapper around the web interface that the server provides (https
 
 ## Download
 
-For webOS 2/3/4/5:
+For webOS 2/3/4:
 * Download the [latest release](https://github.com/jellyfin/jellyfin-webos/releases/latest)
 * Install using Developer Mode (or other process)
 
-For newer TVs (2021+):
+For newer TVs (2020+):
 <p align="center">
 <a href="https://us.lgappstv.com/main/tvapp/detail?appId=1030579"><img alt="Enjoy on LG Smart TV" src="https://repo.jellyfin.org/releases/other/lg-badge/LG_BADGE_greyborders_135x40.png"/></a>
 <br/>
-<em><strong>Note:</strong>  The Content Store version is currently only available for webOS 6+.</em>
+<em><strong>Note:</strong>  The Content Store version is currently only available for webOS 5+.</em>
 </p>
 
 
